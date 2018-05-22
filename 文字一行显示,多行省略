@@ -1,0 +1,7 @@
+display: -webkit-box;
+white-space: pre-wrap;
+word-wrap: break-word;
+overflow: hidden;
+text-overflow: ellipsis;
+-webkit-box-orient: vertical;
+-webkit-line-clamp:3;
